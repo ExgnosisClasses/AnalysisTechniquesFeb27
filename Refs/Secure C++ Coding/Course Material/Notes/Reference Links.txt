@@ -1,0 +1,6 @@
+DCL50 Links
+    https://kevinushey.github.io/blog/2016/01/27/introduction-to-c++-variadic-templates/
+    https://florianjw.de/en/variadic_templates.html
+    https://eli.thegreenplace.net/2014/variadic-templates-in-c/
+    https://en.cppreference.com/w/cpp/language/parameter_pack
+
