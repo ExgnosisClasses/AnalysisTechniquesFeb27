@@ -4,3 +4,5 @@
 _This repository will be available until March 28, 2023_
 
 This is the class repository for the Analysis Techniques class.
+
+March 1: Added Notes.md that contains reading list
